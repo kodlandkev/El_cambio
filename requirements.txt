@@ -1,0 +1,5 @@
+flask
+keras==2.15
+requests
+tensorflow==2.15
+Pillow

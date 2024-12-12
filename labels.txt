@@ -1,0 +1,11 @@
+0 Mal entorno de aire
+1 Mal entorno de basura
+2 deforestación
+3 sequia
+4 Mal entorno de agua contaminada
+5 Regular contaminación del aire
+6 Regular entorno de basura
+7 Regular entorno de agua contaminada
+8 Buen entorno de aire
+9 Buen entorno de agua
+10 Buen entorno de suelo
